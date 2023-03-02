@@ -13,7 +13,6 @@
 - 
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
-⭐️ From [rolemee](https://github.com/rolemee)
 
 
 [![rolemee's GitHub stats](https://github-readme-stats.vercel.app/api?username=rolemee)](https://github.com/anuraghazra/github-readme-stats)
