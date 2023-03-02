@@ -16,5 +16,5 @@
 ⭐️ From [rolemee](https://github.com/rolemee)
 
 
-<p align="center">[![rolemee's GitHub stats](https://github-readme-stats.vercel.app/api?username=rolemee)](https://github.com/anuraghazra/github-readme-stats)</p>
+[![rolemee's GitHub stats](https://github-readme-stats.vercel.app/api?username=rolemee)](https://github.com/anuraghazra/github-readme-stats)
 
